@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scrollview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarSize="10dp"
+    android:scrollbarThumbVertical="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/couponExpireDateLayout"
+            style="@style/PrimaryTextField.InputField.Holder"
+            android:layout_gravity="center_vertical|center_horizontal"
+
+            android:layout_marginTop="10dp"
+            android:hint="Kullanıcı Adı "
+            app:errorTextAppearance="@style/PrimaryTextField.InputField.Holder.Error">
+
+            <android.support.v7.widget.AppCompatEditText
+                android:id="@+id/username"
+                style="@style/PrimaryTextField.InputField"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/guestLogin"
+            style="@style/PrimaryButtonFilled.Base"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_margin="10dp"
+            android:text="Login" />
+
+    </LinearLayout>
+</ScrollView>

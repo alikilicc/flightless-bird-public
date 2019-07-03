@@ -1,0 +1,15 @@
+apply plugin: "java"
+targetCompatibility = 1.8
+sourceCompatibility = 1.8
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+sourceSets.main.java.srcDirs = ["src/"]
+eclipse.project {
+    name = appName + "-core"
+}
+dependencies {
+    // Add this if you need google authorization
+    implementation 'com.google.android.gms:play-services-auth:16.0.1@aar'
+    implementation 'com.google.android.gms:play-services-base:16.1.0@aar'
+    implementation "de.tomgrill.gdxdialogs:gdx-dialogs-core:1.3.0"
+
+}

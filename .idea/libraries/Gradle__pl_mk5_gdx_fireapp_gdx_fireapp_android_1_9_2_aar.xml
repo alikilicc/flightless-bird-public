@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.mk5.gdx-fireapp/gdx-fireapp-android/1.9.2/c1b1a6ac2e8b1719c827a7f4af8ae5a8d09967a1/gdx-fireapp-android-1.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

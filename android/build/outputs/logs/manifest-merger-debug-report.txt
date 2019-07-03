@@ -1,0 +1,776 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/508f7b01d3d6193acab6555529785ba9/AndroidManifest.xml:17:1-22:12
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.3.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e14ff7574f4bfc95d4974bf02f95f63/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b67cc4c380fbb3ef96bb88ab7dda4549/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/15327555e26646afb97b9a289ab22190/AndroidManifest.xml:17:1-22:12
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:0.2.5] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/465b1776c29e856dabb2fdf208a51f4c/AndroidManifest.xml:2:1-11:12
+MERGED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cff689b383918adfbae30405121d3fac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-games:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5e2d506f16fa3f1d4058383033ce34b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/58f9d8c8a572f0be736a95c45c576757/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f51e53afc9e58db7801eaf5e6da678e0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/20e72e74ea25bdb249618e4d6d3f1bbc/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6ac55f509b2588d492ab06c02ea1779/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/85e0d47323f266814fb93e827da0bd0d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ab12d951d8878bf2202220cbe09c9206/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f81c1d3ed39d959c1f5e2c3ff9c0c7f8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5510ade71a062399403a7c158bc00d63/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6eac05da4d22989ecb480249248b2d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d6f59058ef8fdff02fd9e1e98bbaa3eb/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/afca333f781c30bba0594d857eb19135/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/8bc6cd3ba920d7b767325159c570cf7d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/6a8fc9c57901009a1884261b591b9573/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/12252b9f45eae46a74a42a18a4498156/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ec84c9eef193ad0df4c2d14b61225b8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ca3e611ab7e5c61fd6d3ea236a91f29/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7f5c2460b411e346adfa8c21b9551686/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3a529d77be3b1c93d64307b3583debd1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/baf09b679f088e385f1b119078a9aa19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5b8a28130c74b54865d8d88fc5f1f4ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/2582487a3841266a8a9612cbbdab8275/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0352853a8279114d1e5500e2832959a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b16c7a5d7c333083f347fbd7cc0162fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d22f9b8a4aeef699aefee5e1a8a1a6e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/fe7fd6b7fc24f6cc9a25c82a3761e7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bb49d177e3e050ce935de4dbf275e088/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:loader:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/e45b2187aea9ccd72ed76f6a52e9fb7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0ab8bb581a92d92839aa5deab87f1dd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cf305dd289d39f17dc44a41499bfb9ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/912dbc4a59664b97dbdbe0257a5ae874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e1a4a4cb3dec3bf53a045d7b02b5a13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ec6edeeb41e3f9ff8e410e907f90b9bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f214eb61294f8fa8de683189be753464/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f065f173795cd3e0251f9d3f7d62f519/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/56f9ea73b6e9f04a79faf3e89c0e6e28/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/43695649c1650d7c91d8f4f8c71113ff/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/90b3bb02c9a19dc2983644eb29c30d6a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/e774ff8dd7f66c8e18a672ec90d11fbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ac2c53b4de5ec93fc853a841b94da44e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7b73b68ef914c6204fdaf1b4e6cc7fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/599e626c57b30481a2eea70f6a604841/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/091bb52ba71e9e6a09c69c62c731b08c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/1af9d6c90146cfee3567af55e5356f51/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bfeedd636b00ff3dd2e53642bc4aab39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/29e70a1d72e793bbc8bd06510204ff9a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9a3093bcabc83d90ab014df129197e98/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cacdcc0a68a1b5f934f8ea6c41f1eb22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ff823c036fc999830fa66b27d50057a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3af70697db12c6685fd742d88cbddcc9/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3148f7d329753e8ceaf6aaa1d8d668c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0c66d715ef74ed5e4da58c358111101e/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/4e013970ed840efc347523e2281d0e09/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3c4e9fb563dab63e17a91113524ce651/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7c36ede939f985ca3cbb478df51aa596/AndroidManifest.xml:22:1-33:12
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:1-89:12
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:5:5-67
+MERGED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:27:5-67
+MERGED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:26:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0c66d715ef74ed5e4da58c358111101e/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0c66d715ef74ed5e4da58c358111101e/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/4e013970ed840efc347523e2281d0e09/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/4e013970ed840efc347523e2281d0e09/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3c4e9fb563dab63e17a91113524ce651/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3c4e9fb563dab63e17a91113524ce651/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7c36ede939f985ca3cbb478df51aa596/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7c36ede939f985ca3cbb478df51aa596/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.SET_ALARM
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:9:22-63
+application
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:11:5-86:19
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.3.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e14ff7574f4bfc95d4974bf02f95f63/AndroidManifest.xml:9:5-20
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.3.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e14ff7574f4bfc95d4974bf02f95f63/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b67cc4c380fbb3ef96bb88ab7dda4549/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b67cc4c380fbb3ef96bb88ab7dda4549/AndroidManifest.xml:22:5-20
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:0.2.5] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/465b1776c29e856dabb2fdf208a51f4c/AndroidManifest.xml:9:5-20
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:0.2.5] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/465b1776c29e856dabb2fdf208a51f4c/AndroidManifest.xml:9:5-20
+MERGED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:30:5-53
+MERGED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:30:5-53
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cff689b383918adfbae30405121d3fac/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cff689b383918adfbae30405121d3fac/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-games:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5e2d506f16fa3f1d4058383033ce34b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5e2d506f16fa3f1d4058383033ce34b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/58f9d8c8a572f0be736a95c45c576757/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/58f9d8c8a572f0be736a95c45c576757/AndroidManifest.xml:22:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:18:5-24:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/20e72e74ea25bdb249618e4d6d3f1bbc/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/20e72e74ea25bdb249618e4d6d3f1bbc/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f81c1d3ed39d959c1f5e2c3ff9c0c7f8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f81c1d3ed39d959c1f5e2c3ff9c0c7f8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5510ade71a062399403a7c158bc00d63/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5510ade71a062399403a7c158bc00d63/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6eac05da4d22989ecb480249248b2d2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6eac05da4d22989ecb480249248b2d2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d6f59058ef8fdff02fd9e1e98bbaa3eb/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d6f59058ef8fdff02fd9e1e98bbaa3eb/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/afca333f781c30bba0594d857eb19135/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/afca333f781c30bba0594d857eb19135/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/8bc6cd3ba920d7b767325159c570cf7d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/8bc6cd3ba920d7b767325159c570cf7d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/6a8fc9c57901009a1884261b591b9573/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/6a8fc9c57901009a1884261b591b9573/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/12252b9f45eae46a74a42a18a4498156/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/12252b9f45eae46a74a42a18a4498156/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ec84c9eef193ad0df4c2d14b61225b8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ec84c9eef193ad0df4c2d14b61225b8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ca3e611ab7e5c61fd6d3ea236a91f29/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ca3e611ab7e5c61fd6d3ea236a91f29/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7f5c2460b411e346adfa8c21b9551686/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7f5c2460b411e346adfa8c21b9551686/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3a529d77be3b1c93d64307b3583debd1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3a529d77be3b1c93d64307b3583debd1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bb49d177e3e050ce935de4dbf275e088/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bb49d177e3e050ce935de4dbf275e088/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/56f9ea73b6e9f04a79faf3e89c0e6e28/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/56f9ea73b6e9f04a79faf3e89c0e6e28/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/43695649c1650d7c91d8f4f8c71113ff/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/43695649c1650d7c91d8f4f8c71113ff/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/90b3bb02c9a19dc2983644eb29c30d6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/90b3bb02c9a19dc2983644eb29c30d6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3148f7d329753e8ceaf6aaa1d8d668c3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3148f7d329753e8ceaf6aaa1d8d668c3/AndroidManifest.xml:7:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0c66d715ef74ed5e4da58c358111101e/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0c66d715ef74ed5e4da58c358111101e/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/4e013970ed840efc347523e2281d0e09/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/4e013970ed840efc347523e2281d0e09/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3c4e9fb563dab63e17a91113524ce651/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3c4e9fb563dab63e17a91113524ce651/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7c36ede939f985ca3cbb478df51aa596/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7c36ede939f985ca3cbb478df51aa596/AndroidManifest.xml:31:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/43695649c1650d7c91d8f4f8c71113ff/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:16:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:14:9-44
+	android:roundIcon
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:18:9-54
+	android:largeHeap
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:12:9-64
+activity#com.naysapp.flightlessbird.AndroidLauncher
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:24:13-56
+	android:label
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:23:13-45
+	android:configChanges
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:22:13-94
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:21:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:27:27-74
+activity#com.naysapp.flightlessbird.ui.AboutFlightlessBirdActivity
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:30:9-33:47
+	android:screenOrientation
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:32:13-49
+	android:theme
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:31:13-85
+activity#com.naysapp.flightlessbird.ui.LoginAsGuestActivity
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:35:13-78
+receiver#com.naysapp.flightlessbird.services.BirdMaydayService
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:38:9-44:20
+	android:enabled
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:40:13-35
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:39:13-55
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:41:13-43:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:42:25-76
+receiver#com.naysapp.flightlessbird.services.LevelReminderService
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:45:9-51:20
+	android:enabled
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:46:13-58
+service#com.naysapp.flightlessbird.fcm.MyFirebaseMessagingService
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:53:9-59:19
+	android:exported
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:54:13-59
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:56:13-58:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:57:17-78
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:57:25-75
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:62:9-64:46
+	android:value
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:64:13-43
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:63:13-63
+meta-data#com.google.android.gms.version
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:66:9-68:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3a529d77be3b1c93d64307b3583debd1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3a529d77be3b1c93d64307b3583debd1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:68:13-66
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:67:13-58
+meta-data#preloaded_fonts
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:69:9-71:57
+	android:resource
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:71:13-54
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:70:13-43
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:72:9-74:48
+	android:value
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:73:13-69
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:76:9-78:68
+	android:resource
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:78:13-65
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:77:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:81:9-83:53
+	android:resource
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:83:13-50
+	android:name
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml:82:13-84
+uses-sdk
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/508f7b01d3d6193acab6555529785ba9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/508f7b01d3d6193acab6555529785ba9/AndroidManifest.xml:20:5-43
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.3.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e14ff7574f4bfc95d4974bf02f95f63/AndroidManifest.xml:5:5-7:41
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.3.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e14ff7574f4bfc95d4974bf02f95f63/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b67cc4c380fbb3ef96bb88ab7dda4549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b67cc4c380fbb3ef96bb88ab7dda4549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/15327555e26646afb97b9a289ab22190/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/15327555e26646afb97b9a289ab22190/AndroidManifest.xml:20:5-44
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:0.2.5] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/465b1776c29e856dabb2fdf208a51f4c/AndroidManifest.xml:5:5-7:41
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:0.2.5] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/465b1776c29e856dabb2fdf208a51f4c/AndroidManifest.xml:5:5-7:41
+MERGED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:22:5-24:41
+MERGED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cff689b383918adfbae30405121d3fac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cff689b383918adfbae30405121d3fac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5e2d506f16fa3f1d4058383033ce34b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5e2d506f16fa3f1d4058383033ce34b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/58f9d8c8a572f0be736a95c45c576757/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/58f9d8c8a572f0be736a95c45c576757/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f51e53afc9e58db7801eaf5e6da678e0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f51e53afc9e58db7801eaf5e6da678e0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:12:5-14:63
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/20e72e74ea25bdb249618e4d6d3f1bbc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/20e72e74ea25bdb249618e4d6d3f1bbc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6ac55f509b2588d492ab06c02ea1779/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6ac55f509b2588d492ab06c02ea1779/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/85e0d47323f266814fb93e827da0bd0d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/85e0d47323f266814fb93e827da0bd0d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ab12d951d8878bf2202220cbe09c9206/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ab12d951d8878bf2202220cbe09c9206/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f81c1d3ed39d959c1f5e2c3ff9c0c7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f81c1d3ed39d959c1f5e2c3ff9c0c7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5510ade71a062399403a7c158bc00d63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5510ade71a062399403a7c158bc00d63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6eac05da4d22989ecb480249248b2d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b6eac05da4d22989ecb480249248b2d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d6f59058ef8fdff02fd9e1e98bbaa3eb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d6f59058ef8fdff02fd9e1e98bbaa3eb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/afca333f781c30bba0594d857eb19135/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/afca333f781c30bba0594d857eb19135/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/8bc6cd3ba920d7b767325159c570cf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/8bc6cd3ba920d7b767325159c570cf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/6a8fc9c57901009a1884261b591b9573/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/6a8fc9c57901009a1884261b591b9573/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/12252b9f45eae46a74a42a18a4498156/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/12252b9f45eae46a74a42a18a4498156/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ec84c9eef193ad0df4c2d14b61225b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ec84c9eef193ad0df4c2d14b61225b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ca3e611ab7e5c61fd6d3ea236a91f29/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7ca3e611ab7e5c61fd6d3ea236a91f29/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7f5c2460b411e346adfa8c21b9551686/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7f5c2460b411e346adfa8c21b9551686/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3a529d77be3b1c93d64307b3583debd1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3a529d77be3b1c93d64307b3583debd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/baf09b679f088e385f1b119078a9aa19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/baf09b679f088e385f1b119078a9aa19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5b8a28130c74b54865d8d88fc5f1f4ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5b8a28130c74b54865d8d88fc5f1f4ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/2582487a3841266a8a9612cbbdab8275/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/2582487a3841266a8a9612cbbdab8275/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0352853a8279114d1e5500e2832959a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0352853a8279114d1e5500e2832959a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b16c7a5d7c333083f347fbd7cc0162fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b16c7a5d7c333083f347fbd7cc0162fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d22f9b8a4aeef699aefee5e1a8a1a6e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d22f9b8a4aeef699aefee5e1a8a1a6e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/fe7fd6b7fc24f6cc9a25c82a3761e7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/fe7fd6b7fc24f6cc9a25c82a3761e7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bb49d177e3e050ce935de4dbf275e088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bb49d177e3e050ce935de4dbf275e088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/e45b2187aea9ccd72ed76f6a52e9fb7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/e45b2187aea9ccd72ed76f6a52e9fb7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0ab8bb581a92d92839aa5deab87f1dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0ab8bb581a92d92839aa5deab87f1dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cf305dd289d39f17dc44a41499bfb9ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cf305dd289d39f17dc44a41499bfb9ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/912dbc4a59664b97dbdbe0257a5ae874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/912dbc4a59664b97dbdbe0257a5ae874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e1a4a4cb3dec3bf53a045d7b02b5a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3e1a4a4cb3dec3bf53a045d7b02b5a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ec6edeeb41e3f9ff8e410e907f90b9bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ec6edeeb41e3f9ff8e410e907f90b9bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f214eb61294f8fa8de683189be753464/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f214eb61294f8fa8de683189be753464/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f065f173795cd3e0251f9d3f7d62f519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f065f173795cd3e0251f9d3f7d62f519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/56f9ea73b6e9f04a79faf3e89c0e6e28/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/56f9ea73b6e9f04a79faf3e89c0e6e28/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/43695649c1650d7c91d8f4f8c71113ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/43695649c1650d7c91d8f4f8c71113ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/90b3bb02c9a19dc2983644eb29c30d6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/90b3bb02c9a19dc2983644eb29c30d6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/e774ff8dd7f66c8e18a672ec90d11fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/e774ff8dd7f66c8e18a672ec90d11fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ac2c53b4de5ec93fc853a841b94da44e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ac2c53b4de5ec93fc853a841b94da44e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7b73b68ef914c6204fdaf1b4e6cc7fe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7b73b68ef914c6204fdaf1b4e6cc7fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/599e626c57b30481a2eea70f6a604841/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/599e626c57b30481a2eea70f6a604841/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/091bb52ba71e9e6a09c69c62c731b08c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/091bb52ba71e9e6a09c69c62c731b08c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/1af9d6c90146cfee3567af55e5356f51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/1af9d6c90146cfee3567af55e5356f51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bfeedd636b00ff3dd2e53642bc4aab39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bfeedd636b00ff3dd2e53642bc4aab39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/29e70a1d72e793bbc8bd06510204ff9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/29e70a1d72e793bbc8bd06510204ff9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9a3093bcabc83d90ab014df129197e98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9a3093bcabc83d90ab014df129197e98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cacdcc0a68a1b5f934f8ea6c41f1eb22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/cacdcc0a68a1b5f934f8ea6c41f1eb22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ff823c036fc999830fa66b27d50057a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/ff823c036fc999830fa66b27d50057a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3af70697db12c6685fd742d88cbddcc9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3af70697db12c6685fd742d88cbddcc9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3148f7d329753e8ceaf6aaa1d8d668c3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3148f7d329753e8ceaf6aaa1d8d668c3/AndroidManifest.xml:5:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0c66d715ef74ed5e4da58c358111101e/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0c66d715ef74ed5e4da58c358111101e/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/4e013970ed840efc347523e2281d0e09/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/4e013970ed840efc347523e2281d0e09/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3c4e9fb563dab63e17a91113524ce651/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/3c4e9fb563dab63e17a91113524ce651/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7c36ede939f985ca3cbb478df51aa596/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7c36ede939f985ca3cbb478df51aa596/AndroidManifest.xml:27:5-43
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f51e53afc9e58db7801eaf5e6da678e0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+		ADDED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+		INJECTED from /Users/denizsubasi/Downloads/-flightless_bird-master/android/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:28:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [pl.mk5.gdx-fireapp:gdx-fireapp-android:1.9.2] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f0580bb1b7f3e1c36db69ed01f05464f/AndroidManifest.xml:28:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:30:18-89
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/9fa90b24b45d77a82c44e3b219cd96e6/AndroidManifest.xml:32:17-107
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d7def6b0fe6109877c7b681ce6a97307/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/5315b7ee953275b61aba6ba4d9f2de35/AndroidManifest.xml:31:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f13282afe8ed4c0c36014edf3ebe6728/AndroidManifest.xml:34:13-89
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:19:9-23:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:21:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4549ab778f91d4bae567043907cd02d/AndroidManifest.xml:20:13-75
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/b7aa9eb10f02e88c3c4ffd9aedc6362b/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7bbf458841e6ea299708553df41a7ead/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/86fc947f4e59a67ace96ab57aba50f51/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/d4eb32e3e5591e2ee3c4b869ab1d1e0b/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/c76deb191022f17f704cac0626bfdd3e/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/0e99ba64f3e6a29607a94c451f79b6d8/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/f75f4eaabe7aa55012f483d028364d49/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/7412c0cab85f4d7d046fabe788f5c9d7/AndroidManifest.xml:49:13-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/edfc5b85f050a702765dc591fd933c6e/AndroidManifest.xml:36:13-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bb49d177e3e050ce935de4dbf275e088/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/bb49d177e3e050ce935de4dbf275e088/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/56f9ea73b6e9f04a79faf3e89c0e6e28/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/56f9ea73b6e9f04a79faf3e89c0e6e28/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/denizsubasi/.gradle/caches/transforms-2/files-2.1/042af607170ec18b2a280e5e5cc47529/AndroidManifest.xml:27:13-51

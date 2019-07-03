@@ -1,0 +1,71 @@
+<resources>
+
+    <style name="GdxTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="PrimaryButtonFilled.Base" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/button_customization</item>
+    </style>
+
+    <style name="PrimaryButtonFilled" parent="PrimaryButtonFilled.Base">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+
+    <style name="PrimaryButtonWithBorder.Base" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:background">@drawable/white_button_with_accent_color_border</item>
+    </style>
+
+    <style name="PrimaryButtonWithBorder" parent="PrimaryButtonWithBorder.Base">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+
+
+    <style name="PrimaryTextField" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <style name="PrimaryTextField.InputField.Holder" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="PrimaryTextField.InputField.Holder.Error" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="PrimaryTextField.InputField" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
+

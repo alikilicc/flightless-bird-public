@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flightless Bird</string>
+   <!-- package_name -->
+    <string name="package_name" translatable="false">com.naysapp.flightlessbird</string>
+    <!-- achievement You have passed 5th level -->
+    <string name="achievement_you_have_passed_5th_level" translatable="false">CgkIiY-sxowDEAIQAA</string>
+    <!-- achievement You have passed 10th level ! -->
+    <string name="achievement_you_have_passed_10th_level" translatable="false">CgkIiY-sxowDEAIQAQ</string>
+    <!-- achievement You have passed 12th level ! -->
+    <string name="achievement_you_have_passed_12th_level" translatable="false">CgkIiY-sxowDEAIQAg</string>
+    <!-- achievement You have passed 15th level ! -->
+    <string name="achievement_you_have_passed_15th_level" translatable="false">CgkIiY-sxowDEAIQAw</string>
+    <!-- achievement You have passed 17th level ! Incredible -->
+    <string name="achievement_you_have_passed_17th_level__incredible" translatable="false">CgkIiY-sxowDEAIQBA</string>
+    <!-- achievement You have passed 20th level What ? YOU ARE LEGENDARY -->
+    <string name="achievement_you_have_passed_20th_level_what__you_are_legendary" translatable="false">CgkIiY-sxowDEAIQBQ</string>
+    <!-- achievement You have passed 7th level ! -->
+    <string name="achievement_you_have_passed_7th_level" translatable="false">CgkIiY-sxowDEAIQEQ</string>
+    <!-- leaderboard KAHRAMANLAR SIRALAMASI -->
+    <string name="leaderboard_kahramanlar_siralamasi" translatable="false">CgkIiY-sxowDEAIQBg</string>
+    <!-- leaderboard Hard -->
+    <string name="leaderboard_hard" translatable="false">CgkIiY-sxowDEAIQBw</string>
+    <!-- event Past 5th Level -->
+    <string name="event_past_5th_level" translatable="false">CgkIiY-sxowDEAIQCg</string>
+    <!-- event Past 8th Level -->
+    <string name="event_past_8th_level" translatable="false">CgkIiY-sxowDEAIQCw</string>
+    <!-- event Past 10th Level -->
+    <string name="event_past_10th_level" translatable="false">CgkIiY-sxowDEAIQDA</string>
+    <!-- event Past 12th Level -->
+    <string name="event_past_12th_level" translatable="false">CgkIiY-sxowDEAIQDQ</string>
+    <!-- event Past 15th Level -->
+    <string name="event_past_15th_level" translatable="false">CgkIiY-sxowDEAIQDg</string>
+    <!-- event Past 17th Level -->
+    <string name="event_past_17th_level" translatable="false">CgkIiY-sxowDEAIQDw</string>
+    <!-- event Past 20th Level -->
+    <string name="event_past_20th_level" translatable="false">CgkIiY-sxowDEAIQEA</string>
+    <string name="aboutUsText">Flightless Bird By NaysApp</string>
+    <string name="communicateWithUs">Communicate with us</string>
+    <string name="rateApp">Rate App</string>
+
+
+</resources>

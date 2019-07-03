@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:0.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/465b1776c29e856dabb2fdf208a51f4c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/465b1776c29e856dabb2fdf208a51f4c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android-gpgs/0.2.5/4fc458380cb17b19960feecaa043ebeb9482cc06/gdx-gamesvcs-android-gpgs-0.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

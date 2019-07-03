@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106447964041",
+    "firebase_url": "https://flightless-bird-59524514.firebaseio.com",
+    "project_id": "flightless-bird-59524514",
+    "storage_bucket": "flightless-bird-59524514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106447964041:android:b81e48a0795f1134",
+        "android_client_info": {
+          "package_name": "com.naysapp.flightlessbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106447964041-2dckahthl96iv9021v2minfvo8q2hrnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naysapp.flightlessbird",
+            "certificate_hash": "ea14999d2af61dbe7ee483de6642e5727c176095"
+          }
+        },
+        {
+          "client_id": "106447964041-eafj4g6fivc56u1brpacpiscu2692h71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6wMmN4OhBABbxbs2GqU84WKfRa-JGbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106447964041-eafj4g6fivc56u1brpacpiscu2692h71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
